@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Imenik</string>
+    <string name="action_settings">Settings</string>
+    <string name="dodaj_kontakt">Add Contact</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="telbroj">Telefonski Broj</string>
+    <string name="email">Email Adresa</string>
+    <string name="adresa">Kucna Adresa</string>
+    <string name="location">Kucna Location</string>
+    <string name="kontakti_naslov">Kontakti</string>
+    <string name="bDodaj">Dodaj</string>
+    <string name="sacuvaj">Sacuvaj</string>
+    <string name="izmeni_kontakt">Izmeni Kontakt</string>
+    <string name="bIzmeni">Izmeni</string>
+    <string name="bObrisi">Obrisi</string>
+
+</resources>
